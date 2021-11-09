@@ -2,3 +2,9 @@
 /shelf/
 /workspace.xml
 .idea
+*.txt
+*.xlsx
+*.pdf
+*.docx
+__pycache__
+*.doc
